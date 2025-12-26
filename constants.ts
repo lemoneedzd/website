@@ -7,7 +7,7 @@ export const ARTWORKS: Artwork[] = [
     title: 'Ephemeral Stasis',
     description: 'Oil on canvas, digital remix.',
     year: '2023',
-    src: 'https://picsum.photos/600/800?random=1',
+    src: 'https://testingcf.jsdelivr.net/gh/lemoneedzd/resources@main/images/cover1.jpg',
   },
   {
     id: '2',
@@ -15,7 +15,7 @@ export const ARTWORKS: Artwork[] = [
     title: 'Cognitive Dissonance',
     description: 'Mixed media installation view.',
     year: '2024',
-    src: 'https://picsum.photos/800/600?random=2',
+    src: 'https://testingcf.jsdelivr.net/gh/lemoneedzd/resources@main/images/cover2.jpg',
   },
   {
     id: '3',
